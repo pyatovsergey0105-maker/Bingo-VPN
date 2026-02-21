@@ -1,2 +1,2 @@
-# Top-VPN
-Белые списки 
+vless://d25caaab-e4b7-419f-9753-7229c7287f55@45.151.30.173:8443?security=reality&encryption=none&pbk=FkukwtrnUTnH3H7HtmWdxZV6axzxP-yE63TcviTR9jA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ang12.fasssst.ru&sid=64318fb6091432#%F0%9F%87%AA%F0%9F%87%BA+%E2%9A%A1+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%E2%84%961 Обход LTE/4G
+vless://bbc3bb80-032b-4c15-9bbd-ac6cba0e76a0@130.193.59.133:51101?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f32140952ba18e18#%F0%9F%87%AA%F0%9F%87%BA+%E2%9A%A1%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%D0%B3%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BE%D0%BA+%E2%84%962 Обход LTE/4G
