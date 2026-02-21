@@ -1,2 +1,2 @@
-# Bingo-VPN
+# Top-VPN
 Белые списки 
